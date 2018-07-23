@@ -1,1 +1,4 @@
 this is dance file
+
+step up
+step left
